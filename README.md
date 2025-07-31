@@ -6,10 +6,10 @@ This project involves advanced SQL queries and schema design for a dataset conta
 
 ## 📁 Files Included
 
-- netflix_data.csv – Original dataset (provided by user)
+- netflix_data.csv – Original dataset 
 - schema.sql – SQL table creation script
 - queries.sql – 15 Advanced SQL queries with solutions
-- README.md – Project documentation (this file)
+- README.md – Project documentation 
 
 ---
 
@@ -61,6 +61,6 @@ These are written in standard *PostgreSQL* syntax.
 
 ## 📌 Credits
 
-Dataset: Provided by user  
-Project Author: [Your Name]  
+Dataset: Collected from Kaggle  
+Project Author: Rakibul Islam  
 Platform: PostgreSQL
